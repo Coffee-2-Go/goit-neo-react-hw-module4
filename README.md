@@ -1,6 +1,6 @@
-# Tier 4. Module 1: Mastering Front-End Development with React
+# Tier 2. Module 4: Mastering Front-End Development with React
 
-## Topic 6. Hooks. Homework
+## Topic 8. Hooks. Homework
 
 ### Deployment
 
